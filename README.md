@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👽, I'm Yvonne </h1>
-<h3 align="center">Updating bio soon...</h3>
+<h3 align="center">I am studying Data Science and Financial Modeling at Western University.</h3>
 
 - 🔭 I’m currently working on [Credit Card Fraud Detection](https://github.com/yvonnevydao/Credit_Fraud_Detection)
 
